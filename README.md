@@ -29,7 +29,7 @@
 
 ## 🎯 Executive Summary
 
-Final-year **Software Engineering (`Génie Logiciel`)** student at **EPI Digital School, Tunisia** (`2024–2027`, expected graduation June 2027). Hands-on experience designing and developing **full-stack web applications**, **RESTful APIs**, **role-based authentication systems**, and **relational & document database architectures**. Passionate about scalable software engineering, mobile applications, and practical business systems, while preparing for admission to an English-taught **Master's programme in Computer Science or Information Technology**.
+Final-year **Software Engineering (`Génie Logiciel`)** student at **EPI Digital School, Tunisia** (`2024–2027`, expected graduation June 2027). Hands-on experience designing and developing **full-stack web applications**, **RESTful APIs**, **role-based authentication systems**, and **relational & document database architectures**. Passionate about scalable software engineering, mobile applications, and practical business systems**.
 
 * 🌍 **Languages:** **Arabic** *(Native)* · **English** *(Professional Working Proficiency)* · **French** *(Intermediate)*
 * 📍 **Location:** Tunisia

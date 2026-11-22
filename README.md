@@ -14,7 +14,7 @@
 <a href="https://www.linkedin.com/in/rayen-mhamdi-223458326" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="mailto:mhamdirayen@gmail.com">
+<a href="mailto:mhamdiirayen@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 <a href="https://github.com/rayen01mhamdi" target="_blank">
@@ -36,10 +36,11 @@ Final-year **Software Engineering (`Génie Logiciel`)** student at **EPI Digital
 
 ---
 
-## 💼 Leadership & Experience
+## 💼 Experience & Leadership
 
 | Role | Organization | Period | Key Impact |
 | :--- | :--- | :--- | :--- |
+| **Software Development Intern** | **BICA DEV** *(Bouhjar, Tunisia)* | `Internship` | Contributed to software development tasks, application building, and practical engineering workflows. |
 | **General Manager** | **Mic Check06** *(Monastir, Tunisia)* | `Mar 2025 – Present` | Directed planning and execution for live music concerts and cultural events; coordinated teams across visual arts, business development, marketing, and logistics. |
 | **Project Manager & Founder** | **Barq Brand** *(Monastir, Tunisia)* | `Aug 2025 – Present` | Led product design, visual identity, brand strategy, and customer experience; managed production cycles, vendor relationships, and digital promotional campaigns. |
 | **Active Member** | **JCI Bouhjar** *(Bouhjar, Tunisia)* | `May 2025 – Present` | Contributed to community initiatives, organizational activities, promotional media, and administrative documentation. |
@@ -48,9 +49,9 @@ Final-year **Software Engineering (`Génie Logiciel`)** student at **EPI Digital
 
 ## 🚀 Featured Engineering Projects
 
-### 🔹 Quimbielle — Commercial Paper Digitisation Platform
+### ⭐ Quimbielle — Commercial Paper Digitisation Platform
 > Full-stack enterprise web application built to digitise and streamline commercial-paper (*Kambiale* / Bill of Exchange) workflows.
-* **Highlights:** Reusable frontend architecture, authentication & role-based authorisation, relational database persistence, and automated document generation.
+* **Highlights:** Reusable frontend architecture, authentication & role-based authorisation, relational database persistence, and automated document / PDF generation workflows.
 * **Stack:** `React` `Vite` `TypeScript` `Node.js` `Express.js` `PostgreSQL` `Prisma`
 
 ### 🔹 SAAIDENI — Offline Emergency Communication Android App *(In Development)*
@@ -94,6 +95,7 @@ Final-year **Software Engineering (`Génie Logiciel`)** student at **EPI Digital
 
 ## 🏅 Certifications & Training
 
+* **CertiProf** — *AI Foundation Certificate* (`95% — 19/20`, `Nov 2026`)
 * **IBM** — *Getting Started with Artificial Intelligence* (`Sep 2026`)
 * **Microsoft Office Specialist** — *Microsoft Excel Expert (Excel 2019)* (`Mar 2026`)
 * **Cisco CCNA** — *Switching, Routing, and Wireless Essentials* (`May 2024`)

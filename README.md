@@ -95,6 +95,7 @@ Final-year **Software Engineering (`Génie Logiciel`)** student at **EPI Digital
 
 ## 🏅 Certifications & Training
 
+* **NVIDIA** — *Applications of AI for Anomaly Detection* (`Nov 2026`, Credential ID: `tsySqX7jSfWy5q22OMI6hw`)
 * **CertiProf** — *AI Foundation Certificate* (`95% — 19/20`, `Nov 2026`)
 * **IBM** — *Getting Started with Artificial Intelligence* (`Sep 2026`)
 * **Microsoft Office Specialist** — *Microsoft Excel Expert (Excel 2019)* (`Mar 2026`)
